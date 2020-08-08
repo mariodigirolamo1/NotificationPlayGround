@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationPlayGround</string>
+    <string name="channel_name">Notification Channel for NotificationPlayGround</string>
+    <string name="channel_description">Notification Channel used to display various notifications created in NotificationPlayground application</string>
+</resources>
